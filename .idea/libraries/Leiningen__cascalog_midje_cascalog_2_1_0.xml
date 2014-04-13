@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: cascalog/midje-cascalog:2.1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cascalog/midje-cascalog/2.1.0/midje-cascalog-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
