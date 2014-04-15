@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Leiningen: riffle:0.1-dev">
-    <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/riffle/riffle/0.1-dev/riffle-0.1-dev.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

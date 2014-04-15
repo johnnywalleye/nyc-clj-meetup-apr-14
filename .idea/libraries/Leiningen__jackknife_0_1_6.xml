@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Leiningen: jackknife:0.1.6">
-    <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/jackknife/jackknife/0.1.6/jackknife-0.1.6.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
